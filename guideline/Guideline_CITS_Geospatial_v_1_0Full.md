@@ -10,7 +10,7 @@ A proper front page will be created for the publication occurring after implemen
 The purpose of this guideline is to further explain and describe the “Specification for the E-ARK Content Information Type Specification for digital geospatial data records archiving” (also called CITS Geospatial in short). The goal is that as many people as possible will be able to understand the specification and, therefore, to also preserve geodata. The guideline is an evolving document, and more concepts and standards will be explained following the needs of the users of the specification.
 
 ## 1.2. Scope
-This guideline will provide further information and insights on preserving basic to moderately complex Geospatial records used within GIS, mostly in vector and raster formats. **This guideline is not describing the usage of CITS Geospatial for GIS and Web services. That topic is addressed in another Guideline.**
+This guideline will provide further information and insights on preserving basic to moderately complex Geospatial records used within GIS, mostly in vector, raster and point cloud formats. **This guideline is not describing the usage of CITS Geospatial for GIS and Web services. That topic is addressed in another Guideline.**
 
 The CITS Geospatial specification builds on work done in the E-ARK projects.
 
